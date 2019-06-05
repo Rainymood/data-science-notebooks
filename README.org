@@ -1,4 +1,7 @@
 * Data science notebooks 
+
+[[https://img.shields.io/badge/code%20style-black-000000.svg]]
+
 The purpose of this repository is to have a collection of useful
 jupyter notebooks for data scientists. Examples include (but are not
 limited to) reading in =.csv= files, seeing how to drop columns from a
