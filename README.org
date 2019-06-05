@@ -8,7 +8,7 @@ limited to) reading in =.csv= files, seeing how to drop columns from a
 =pd.DataFrame=, and simple but complete Keras examples.
 * Index 
 
-[[0.1-reading-in-csv-jan-meppe-2019-06-05.ipynb][Reading in csv files using =pd.read_csv=]]
+[[0.1-reading-in-csv-jan-meppe-2019-06-05.ipynb][1. Reading in csv files in Pandas using in Pandas pd.read_csv]]
 
 * Changelog 
 
