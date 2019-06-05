@@ -1,5 +1,9 @@
 * Data science notebooks 
-
+The purpose of this repository is to have a collection of useful
+jupyter notebooks for data scientists. Examples include (but are not
+limited to) reading in `.csv` files, seeing how to drop columns from a
+`pd.DataFrame`, and simple but complete Keras examples.
+* Index 
 * Changelog 
 
 - =2019-06-05= Initial version 
