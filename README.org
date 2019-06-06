@@ -6,6 +6,7 @@ The purpose of this repository is to have a collection of useful
 jupyter notebooks for data scientists. Examples include (but are not
 limited to) reading in =.csv= files, seeing how to drop columns from a
 =pd.DataFrame=, and simple but complete Keras examples.
+
 * Index 
 
 [[0.1-reading-in-csv-jan-meppe-2019-06-05.ipynb][1. Reading in csv files in Pandas using in Pandas pd.read_csv]]
