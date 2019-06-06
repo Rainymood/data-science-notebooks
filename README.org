@@ -9,9 +9,9 @@ limited to) reading in =.csv= files, seeing how to drop columns from a
 
 * Index 
 
-[[0.1-reading-in-csv-jan-meppe-2019-06-05.ipynb][1. Reading in csv files in Pandas using in Pandas pd.read_csv]]
-[[0.2-creating-a-dataframe-jan-meppe-2019-06-06.ipynb][2. How to create a DataFrame]]
-[[0.3-difference-loc-iloc-jan-meppe-2019-06-06.ipynb][3. The difference between loc and iloc]]
+- [[0.1-reading-in-csv-jan-meppe-2019-06-05.ipynb][1. Reading in csv files in Pandas using in Pandas pd.read_csv]]
+- [[0.2-creating-a-dataframe-jan-meppe-2019-06-06.ipynb][2. How to create a DataFrame]]
+- [[0.3-difference-loc-iloc-jan-meppe-2019-06-06.ipynb][3. The difference between loc and iloc]]
 
 * Changelog 
 
